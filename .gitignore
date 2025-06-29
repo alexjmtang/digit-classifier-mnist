@@ -1,0 +1,11 @@
+venv310/
+__pycache__/
+*.pyc
+venv310/
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.DS_Store
+venv310/
+venv/
+__pycache__/
